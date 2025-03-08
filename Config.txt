@@ -1,0 +1,45 @@
+If any one want to check in your system ,
+
+install node, npm 
+
+run command 
+	npm install-styled components
+
+
+Download Apache from https://www.apachelounge.com/download/#google_vignette
+
+C:\Users\divya\Softwares\Apache\Apache24\bin
+
+C:\Users\divya\Softwares\Apache\Apache24\conf\httpd.conf
+	Define SRVROOT "C:\Users\divya\Softwares\Apache\Apache24"
+
+run command 
+	httpd.exe
+
+
+
+Install react , install apache , create a sendgrid account ( this is for sending mail) - to get a API key 
+
+Install postman tool for the mail one , it checks json objects - for localhost:3001/sendemail , pass json objects and then check
+
+For running project in one terminal go to , project directory,
+And run react commands , install all dependencies and. In other terminal 
+Run ,
+Cd web-project3 
+Npm install cors
+Npm install express @sendgrid/mail
+This is for mail (forgot pwd)
+
+Then application opens in localhost:3000
+
+Put all php files in htdocs of your apache ,
+Then create tables in phpMyadmin as per the given in each dashboard and php files 
+
+Then you can run the application well . 
+
+
+Thank you!!
+
+
+
+
